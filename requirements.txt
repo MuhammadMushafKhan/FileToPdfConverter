@@ -1,0 +1,9 @@
+flask
+flask-sqlalchemy
+gunicorn
+img2pdf
+pandas
+pdfkit
+pillow
+psycopg2-binary
+email-validator
